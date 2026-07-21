@@ -1,10 +1,15 @@
-# Logistic Regression Projects
+# Machine Learning Internship Projects
 
-This repository contains two Logistic Regression projects completed as part of my internship.
+This repository contains the Machine Learning projects completed during my internship. Each project demonstrates the implementation of different Machine Learning algorithms using real-world datasets.
 
 ## Projects
-- Restaurant Revenue Prediction
-- Coffee Shop Revenue Prediction
+- Logistic Regression
+  - Restaurant Revenue Prediction
+  - Coffee Shop Revenue Prediction
+- K-Means Clustering
+  - Diabetes Dataset Clustering
+
+*(More projects will be added as the internship progresses.)*
 
 ## Tools & Libraries
 - Python
@@ -15,11 +20,18 @@ This repository contains two Logistic Regression projects completed as part of m
 - Scikit-learn
 - Google Colab
 
-## Project Workflow
+## Machine Learning Algorithms Covered
+- Logistic Regression
+- K-Means Clustering
+
+*(More algorithms will be added throughout the internship.)*
+
+## General Workflow
+- Data Collection & Loading
 - Data Exploration
-- Data Preprocessing
-- Correlation Analysis
+- Data Preprocessing (when required)
 - Feature Selection
-- Train-Test Split
-- Logistic Regression Model
+- Model Building
+- Model Training
 - Model Evaluation
+- Data Visualization
